@@ -7,9 +7,6 @@
 which in turn is a wrapper around [obs-websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/).
 It supports authentication and everything else that obs-websocket provides.
 
-An unofficial snap built with ❤︎ by Martin Wimpress using configuration at 
-<https://github.com/Wimpressive-Snaps/obs-cli-snap> from the upstream project source <https://github.com/leafac/obs-cli>
-
 ## Install
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/obs-cli)
@@ -41,3 +38,6 @@ Options:
   -V, --version              output the version number
   -h, --help                 display help for command
 ```
+
+An unofficial snap built with ❤︎ by Martin Wimpress using configuration at 
+<https://github.com/Wimpressive-Snaps/obs-cli-snap> from the upstream project source <https://github.com/leafac/obs-cli>
